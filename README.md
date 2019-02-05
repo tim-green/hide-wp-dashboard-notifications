@@ -16,10 +16,10 @@ If you use this plugin, please make sure you keep the website up to date with la
 3. Activate the plugin
 
 ##### Requirements
-WordPress version: 5.0
-Requires PHP: 7.0+
-License: GPL-3.0+
-License URI: https://www.gnu.org/licenses/gpl-3.0-standalone.html
+- WordPress version: 5.0
+- Requires PHP: 7.0+
+- License: GPL-3.0+
+- License URI: https://www.gnu.org/licenses/gpl-3.0-standalone.html
 
 ##### Changelog
 1.0 Initial release of the plugin
